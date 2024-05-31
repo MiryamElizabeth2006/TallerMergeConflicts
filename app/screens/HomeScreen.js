@@ -11,7 +11,7 @@ export const Home = ({ navigation }) => {
                 <Button
                     title='CONTACTS'
                     onPress={() => {
-                        navigation.navigate('PhoneNumberNav1');
+                        navigation.navigate('PhoneNumberNav');
                     }}
                     color="green"
                 />
